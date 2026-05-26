@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import Valentines from './Valentines';
+import BusinessCard from './BusinessCard';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <Valentines />
+    <BusinessCard />
   </React.StrictMode>,
 );
