@@ -11,7 +11,7 @@ export default function BusinessCard() {
       <p className="site-tagline">
         crafting custom software solutions for your business
       </p>
-      <a href="mailto:aparnalovestocode@gmail.com" className="contact-btn">
+      <a href="mailto:contact@eastriver.technology" className="contact-btn">
         Contact
       </a>
     </main>
